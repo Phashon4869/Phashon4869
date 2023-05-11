@@ -1,8 +1,8 @@
-### Howdy! I'm Phashon
+### Howdy🤠 I'm Phashon
 
 ### 👨‍💻 About me
 - 🌱 I’m currently learning **HTML & CSS and JS**
-- 🤔 I’m looking for help with **AI machine learning**
+- 👍 also making some silly website
 ### 📐Languages
 
 <a href="#"><img align="left" height="32px" width="32px" alt="HTML logo" src="https://bit.ly/3gP4Qgx"></a>
