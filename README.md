@@ -2,7 +2,8 @@
 
 ### 👨‍💻 About me
 - 🌱 I’m currently learning **HTML & CSS and JS**
-- 👍 also making some silly website
+- 👍 Also making some silly website
+- ⚡ Fun fact: I don't know anything about programing
 ### 📐Languages
 
 <a href="#"><img align="left" height="32px" width="32px" alt="HTML logo" src="https://bit.ly/3gP4Qgx"></a>
@@ -11,8 +12,6 @@
 <img align="left" height="32px" width="32px" alt="Python logo" src="https://bit.ly/3nk4bGw">
 
 <br/>
-
-### 🛠 tools
 
 
 
